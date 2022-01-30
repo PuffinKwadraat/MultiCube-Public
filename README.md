@@ -54,17 +54,24 @@ Here are some links that can come in handy if you are building your bot, or just
 ### Commands
 Here is a list for commands on our Discord server. Be aware though that some commands are for Administrators only.
 
-#### Member Managing Commands
+#### Administrator Commands
 | Command           | Info                                                                  | Usage                             | Aliases              |
 |-------------------|-----------------------------------------------------------------------|-----------------------------------|----------------------|
 | `ban`             | Speaks for itself. Bans a member.                                     | `ban @target`                     |                      |
 | `blind`           | Completely blinds a member. Target cannot do anything.                | `blind @target`                   |                      |
-| `clear`           | Bulk delete messages. Old messages can't be deleted with this.        | `clear amount`                    |                      |
+| `clear`           | Bulk delete messages. Old messages can't be deleted with this.        | `clear amount`                    |`buldelete`, `bulkdel`|
 | `kick`  	        | Kicks a member out of the Discord Server.                             | `kick @target`                    |                      |
 | `mute`            | Mutes a member. Target can only read. All channels read-only.         | `mute @target`                    |                      |
-| `ping`            | Pings the bot, and the bot replies. Just for error checking.          | `ping`                            |                      |
 | `unblind`         | Unblinds a blinded member.                                            | `unblind @target`                 |                      | 
 | `unmute`          | Unmutes a muted member.                                               | `unmute @target`                  |                      |
+| `ping`            | Pings the bot, and the bot replies. Latency checking.                 | `ping`                            |`pong`                |
+| `uptime`          | See the bot's uptime.                                                 |                                   |                      |
+
+#### Cosmetic Commands
+| Command           | Info                                                                  | Usage                             | Aliases              |
+|-------------------|-----------------------------------------------------------------------|-----------------------------------|----------------------|
+| `color  `         | Give yourself a color. ID's range from 1 to 205                       | `color id`                        | `colour`, `clr`      |
+| `colorremove`     | Removes your rolecolor.                                               | `colorremove id`                  | `colourremove`       |
 
 #### Economy System Commands
 | Command           | Info                                                                  | Usage                             | Aliases              |
@@ -75,11 +82,14 @@ Here is a list for commands on our Discord server. Be aware though that some com
 | `dailyreward`     | Collect your daily reward. You receive a random amount of coins.      | `dailyreward`                     | `dlyrwd`, `dr`       | 
 | `deposit`         | Transfer coins from your Wallet into your Bank Account.               | `deposit`                         | `depo`, `dep`        | 
 | `givebank`        | Give a member `X` amount of coins for their Bank Account balance.     | `givebank @target amount`         |                      |
-| `givewallet`      | Give a member `Y` amount of coins for their Wallet balance.           | `givewallet @target amount` 	    |                      | 
-| `minusbank`       | Substract `A` amount of coins from a target's Bank Account balance.   | `minusbank @target amount`        |                      |   
-| `minuswallet`     | Substract `B` amount of coins from a target's Wallet balance.         | `minuswallet @target amount`      |                      | 
+| `givefulleco`     | Give a member `Y` amount of coins for both of their accounts.         | `givefulleco @target amount` 	    |                      | 
+| `givewallet`      | Give a member `Z` amount of coins for their Wallet balance.           | `givewallet @target amount` 	    | `givewal`            | 
+| `minusbank`       | Substract `A` amount of coins from a target's Bank Account balance.   | `minusbank @target amount`        |                      |
+| `minusfulleco`    | Substract `B` amount of coins from a both of their accounts.          | `minusfulleco @target amount`     |                      | 
+| `minuswallet`     | Substract `C` amount of coins from a target's Wallet balance.         | `minuswallet @target amount`      |                      | 
 | `search`          | Search for some coins. You get 3 options, and you can pick one.       | `search`                          | `srch`               | 
 | `setbank`         | Reset the balance of a member's Bank Account.                         | `setbank @target newamount`       |                      |
+| `setfulleco`      | Reset the balance of both of their accounts.                          | `setfulleco @target newamount`    |                      | 
 | `setwallet`       | Reset the balance of a member's Wallet.                               | `setwallet @target newamount`     |                      | 
 | `withdraw`        | Transfer coins from your Bank Account into your Wallet.               | `withdraw`                        | `with`, `wit`        |
 
@@ -88,12 +98,15 @@ Here is a list for commands on our Discord server. Be aware though that some com
 |-------------------|-----------------------------------------------------------------------|-----------------------------------|----------------------|
 | `experience`      | Displays your current Experience amount.                              | `experience`                      | `exp`, `xp`          | 
 | `giveexperience`  | Give a member `X` amount of Experience.                               | `giveexperience @target amount`   |                      |
-| `givelevel`       | Give a member `Y` amount of Levels.                                   | `givelevel @target amount`        |                      |
+| `givefulllevele`  | Give a member `X` amount of Experience and Levels.                    | `givefulllevel @target amount`    |                      |
+| `givelevel`       | Give a member `Z` amount of Levels.                                   | `givelevel @target amount`        |                      |
 | `level`           | Displays your current Level.                                          | `level`                           | `lvl`                |
 | `levelstatistics` | Displays both your Experience amount and Level.                       | `levelstatistics`                 | `lvlstats`, `lvlstat`|
 | `minusexperience` | Substract `A` amount of Experience.                                   | `minusexperience @target amount`  |                      |
-| `minuslevel`      | Substract `B` amount of Levels.                                       | `minuslevel @target amount`       |                      |
+| `minusfulllevel`  | Substract `B` amount of Experience and Levels.                        | `minusfulllevel @target amount`   |                      |
+| `minuslevel`      | Substract `C` amount of Levels.                                       | `minuslevel @target amount`       |                      |
 | `setexperience`   | Reset the amount of Experience a member has.                          | `setexperience @target newamount` |                      |
+| `setfulllevel`    | Reset the amount of Experience and LEvels a member has.               | `setfulllevel @target newamount`  |                      |
 | `setlevel`        | Reset the amount of Levels a member has.                              | `setlevel @target newamount`      |                      | 
 
 #### Commands With Embeds
@@ -108,17 +121,33 @@ Here is a list for commands on our Discord server. Be aware though that some com
 | `profile`         | Displays all the information we have stored in our Database.          | `profile`                         | `pro`                | 
 | `rules`           | Displays all of our Discord Server rules.                             | `rules`                           |                      |
 | `serverip`        | Displays the Server IP of MultiCube with some information.            | `serverip`                        | `server`             |
+| `botstats`        | Displays some stats about the bot.                                    | `botstats`                        | `botstat`            |
 
 #### Other Commands
 | Command           | Info                                                                  | Usage                             | Aliases              |
 |-------------------|-----------------------------------------------------------------------|-----------------------------------|----------------------|
+| `leave`           | Makes the Music Bot stop the music and leave the call.                | `leave`                           | `stop`  	           |
+| `play`            | Makes the bot play the sound of a YouTube video. You must be in call. | `play youtube-url`                | `music`, `sound`     |
 | `apply`           | Displays the link to a Google Form if you'd like to apply for a role. | `apply`                           |                      |
 | `commandtemplate` | Sends you a simple text. Also intended for Bot Developers.            | `commandtemplate`                 | `cmdtemp`            |
-| `image`           | Sends you a random google image. Command just for fun.                | `image searchname`                | `img`                | 
-| `musicleave`      | Makes the Music Bot stop the music and leave the call.                | `musicleave`                      | `leave`, `msclv`  	 |
-| `play`            | Makes the bot play the sound of a YouTube video. You must be in call. | `play youtube-url`                | `music`, `sound`      |
+| `facen`           | Flip a coin, English language.                                        | `fac h/t`                         |                      |
+| `facnl`           | Flip a coin, Dutch language.                                          | `sps k/m`                         | `facnl`, `kopofmunt` |
+| `image`           | Sends you a random google image. Command just for fun.                | `image searchname`                | `img`                |
+| `math`            | Calculate some simple mathematical equations.                         | `math equation`                   | `calc`, `calculate`  |
+| `rpsen`           | Rock Paper Scissor, English language.                                 | `rps r/p/s`                       | `rpsen`              | 
+| `rpsnl`           | Rock Paper Scissor, Dutch language.                                   | `sps s/p/s`                       | `rpsnl`              |
+| `srpsen`          | RPS but with stake. Win or lose coins.                                | `srps r/p/s stake`                |                      | 
 | `ticket`          | Creates a private chat room for if you have a question for the staff. | `ticket`                          | `tkt`                |
 
+#### Miscellaneous Commands
+| Command             | Info                                                                  | Usage                             | Aliases              |
+|---------------------|-----------------------------------------------------------------------|-----------------------------------|----------------------|
+| `cirkelvergelijking`| Calculate a circel equation. Just for school stuff we made for fun.   | `circle`                          | `cirkel`  	         |
+| `hoeklijn`          | Calculate the difference in degrees between two lines crossing.       | `hoeklijn`                        | `hkli`          	   |
+| `puntlijn`          | Calculate the distance between a line and a point.                    | `punttotlijn`                     | `puntlijn`           |
+| `substitutie`       | Integration by substitution.                                          | `substitutie`                     | `subst`              |
+| `titreernormaal`    | Calc some science maths (titration).                                  | `titratienormaal`                 | `titnorm`            |
+| `titreerverdunning` | Calc some science maths (advanced titration).                         | `titratieverdunning`              | `titverdun`          |
 
 The prefix for a command is `$`, after that you can type your command. For example: `$help`. 
 
