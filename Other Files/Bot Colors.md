@@ -7,211 +7,211 @@ This GitHub repository is dedicated to our Minecraft Servers and our own Discord
 This is a list of colors you can choose in our Discord server.
 Usage: `$color idhere`. For example:`$color 81`.
 
-    1       | white                 | #ffffff
-    2       | grey                  |   
-    3       | lightyellow           |   
-    4       | brickyellow           |   
-    5       | lightgreen            |   
-    6       | lightreddishviolet    |   
-    7       | pastelblue            | 
-    8       | lightorangebrown      | 
-    9       | nougat                |   
-    10      | brightred             |   
-    11      | medreddishviolet      |  
-    12      | brightblue            |     
-    13      |  brightyellow         |   
-    14      | earthorange           |   
-    15      | black                 |  
-    16      | darkgrey              | 
-    17      | darkgreen             | 
-    18      | mediumgreen           | 
-    19      | ligyellowishorange    | 
-    20      | brightgreen           | 
-    21      | darkorange            | 
-    22      | lightbluishviolet     | 
-    23      | transparent           | 
-    24      | trred                 | 
-    25      | trlgblue              | 
-    26      | trblue                | 
-    27      | tryellow              | 
-    28      | lightblue             | 
-    29      | trflureddishorange    | 
-    30      | trgreen               | 
-    31      | trflugreen            | 
-    32      | phosphwhite           | 
-    33      | lightred              | 
-    34      | mediumred             | 
-    35      | mediumblue            | 
-    36      | lightgrey             | 
-    37      | brightviolet          | 
-    38      | bryellowishorange     | 
-    39      | brightorange          |  
-    40      | brightbluishgreen     |  
-    41      | earthyellow           |  
-    42      | brightbluishviolet    |  
-    43      | trbrown               |   
-    44      | mediumbluishviolet    | 
-    45      | trmedireddishviolet   | 
-    46      | medyellowishgreen     | 
-    47      | medbluishgreen        | 
-    48      | lightbluishgreen      | 
-    49      | bryellowishgreen      | 
-    50      | ligyellowishgreen     | 
-    51      | medyellowishorange    | 
-    52      | brreddishorange       | 
-    53      | brightreddishviolet   | 
-    54      | lightorange           | 
-    55      | trbrightbluishviolet  | 
-    56      | gold                  |   
-    57      | darknougat            |  
-    58      | silver                |  
-    59      | neonorange            |  
-    60      | neongreen             |  
-    61      | sandblue              | 
-    62      | sandviolet            | 
-    63      | mediumorange          | 
-    64      | sandyellow            |    
-    65      | earthblue             | 
-    66      | earthgreen            | 
-    67      | trflublue             | 
-    68      | sandbluemetallic      | 
-    69      | sandvioletmetallic    |  
-    70      | sandyellowmetallic    | 
-    71      | darkgreymetallic      | 
-    72      | blackmetallic         | 
-    73      | lightgreymetallic     | 
-    74      | sandgreen             | 
-    75      | sandred               | 
-    76      | darkred               | 
-    77      | trfluyellow           | 
-    78      | trflured              | 
-    79      | gunmetallic           | 
-    80      | redflipflop           | 
-    81      | yellowflipflop        | 
-    82      | silverflipflop        | 
-    83      | curry                 | 
-    84      | fireyellow            | 
-    85      | flameyellowishorange  | 
-    86      | reddishbrown          | 
-    87      | flamereddishorange    | 
-    88      | mediumstonegrey       | 
-    89      | royalblue             | 
-    90      | darkroyalblue         | 
-    91      | brightreddishlilac    | 
-    92      | darkstonegrey         | 
-    93      | lemonmetallic         | 
-    94      | lightstonegrey        | 
-    95      | darkcurry             | 
-    96      | fadedgreen            | 
-    97      | turquoise             | 
-    98      | lightroyalblue        | 
-    99      | mediumroyalblue       | 
-    100     | rust                  | 
-    101     | brown                 | 
-    102     | reddishlilac          | 
-    103     | lilac                 | 
-    104     | lightlilac            | 
-    105     | brightpurple          | 
-    106     | lightpurple           | 
-    107     | lightpink             | 
-    108     | lightbrickyellow      | 
-    109     | warmyellowishorange   | 
-    110     | coolyellow            | 
-    111     | doveblue              | 
-    112     | mediumlilac           | 
-    113     | slimegreen            | 
-    114     | smokygrey             | 
-    115     | darkblue              | 
-    116     | parsleygreen          | 
-    117     | steelblue             | 
-    118     | stormblue             | 
-    119     | lapis                 | 
-    120     | darkindigo            | 
-    121     | seagreen              | 
-    122     | shamrock              | 
-    123     | fossil                | 
-    124     | mulberry              | 
-    125     | forestgreen           | 
-    126     | cadetblue             | 
-    127     | electricblue          | 
-    128     | eggplant              | 
-    129     | moss                  | 
-    130     | artichoke             | 
-    131     | sagegreen             | 
-    132     | ghostgrey             | 
-    133     | plum                  | 
-    134     | olivine               | 
-    135     | laurelgreen           | 
-    136     | quillgrey             | 
-    137     | crimson               | 
-    138     | mint                  | 
-    139     | babyblue              | 
-    141     | carnationpink         | 
-    142     | persimmon             | 
-    142     | maroon                | 
-    143     | daisyorange           | 
-    144     | pearl                 | 
-    145     | fog                   | 
-    146     | salmon                | 
-    147     | terracotta            | 
-    148     | cocoa                 | 
-    149     | wheat                 | 
-    150     | buttermilk            | 
-    151     | mauve                 | 
-    152     | sunrise               | 
-    153     | tawny                 | 
-    154     | cashmere              | 
-    155     | khaki                 | 
-    156     | lilywhite             | 
-    157     | seashell              | 
-    158     | burgundy              | 
-    159     | cork                  | 
-    160     | burlap                | 
-    161     | beige                 | 
-    162     | oyster                | 
-    163     | pinecone              | 
-    164     | fawnbrown             | 
-    165     | hurricanegrey         | 
-    166     | cloudygrey            | 
-    167     | linen                 | 
-    168     | copper                | 
-    169     | dirtbrown             | 
-    170     | bronze                | 
-    171     | flint                 | 
-    172     | darktaupe             | 
-    173     | burntsienna           | 
-    174     | institutionalwhite    | 
-    175     | midgray               | 
-    176     | reallyblack           | 
-    177     | reallyred             | 
-    178     | deeporange            | 
-    179     | alder                 | 
-    180     | dustyrose             | 
-    181     | olive                 | 
-    182     | newyeller             | 
-    183     | reallyblue            | 
-    184     | navyblue              | 
-    185     | deepblue              | 
-    186     | cyan                  | 
-    187     | cgabrown              | 
-    188     | magenta               | 
-    189     | pink                  | 
-    190     | deeporange            | 
-    191     | teal                  | 
-    192     | toothpaste            | 
-    193     | limegreen             | 
-    194     | camo                  | 
-    195     | grime                 | 
-    196     | lavender              | 
-    197     | pastellightblue       | 
-    198     | pastelorange          | 
-    199     | pastelviolet          | 
-    200     | pastelbluegreen       | 
-    201     | pastelgreen           | 
-    202     | pastelyellow          | 
-    203     | pastelbrown           | 
-    204     | royalpurple           | 
-    205     | hotpink               | 
+    1       | white                 |  #f3f3f2
+    2       | grey                  |  #a1a4a3
+    3       | lightyellow           |  #f8e998
+    4       | brickyellow           |  #d7c49b
+    5       | lightgreen            |  #c3dab9
+    6       | lightreddishviolet    |  #e8bbc9
+    7       | pastelblue            |  #80bbdb
+    8       | lightorangebrown      |  #ca8542
+    9       | nougat                |  #ca8f69
+    10      | brightred             |  #c5291c
+    11      | medreddishviolet      |  #c471a1
+    12      | brightblue            |  #0d68ad
+    13      | brightyellow          |  #f4cc2f
+    14      | earthorange           |  #634733
+    15      | black                 |  #1a2a34
+    16      | darkgrey              |  #6d6e6c
+    17      | darkgreen             |  #287e46
+    18      | mediumgreen           |  #a1c48c
+    19      | ligyellowishorange    |  #f2cf9a
+    20      | brightgreen           |  #4a964b
+    21      | darkorange            |  #a15f34
+    22      | lightbluishviolet     |  #c0cadf
+    23      | transparent           |  #eceded
+    24      | trred                 |  #cc544a
+    25      | trlgblue              |  #c1dff0
+    26      | trblue                |  #7ab6e9
+    27      | tryellow              |  #f6f18c
+    28      | lightblue             |  #b5d2e5
+    29      | trflureddishorange    |  #d8846c
+    30      | trgreen               |  #84b78c
+    31      | trflugreen            |  #f8f085
+    32      | phosphwhite           |  #ede8df
+    33      | lightred              |  #efc5b6
+    34      | mediumred             |  #db867b
+    35      | mediumblue            |  #6f98ca
+    36      | lightgrey             |  #c6c0b7
+    37      | brightviolet          |  #6a327d
+    38      | bryellowishorange     |  #e39a40
+    39      | brightorange          |  #db8441
+    40      | brightbluishgreen     |  #018e9c
+    41      | earthyellow           |  #685d42
+    42      | brightbluishviolet    |  #425492
+    43      | trbrown               |  #bfb7b1
+    44      | mediumbluishviolet    |  #6874ac
+    45      | trmedireddishviolet   |  #e5adc8
+    46      | medyellowishgreen     |  #c6d23d
+    47      | medbluishgreen        |  #54a5ae
+    48      | lightbluishgreen      |  #b7d6d4
+    49      | bryellowishgreen      |  #a5bd46
+    50      | ligyellowishgreen     |  #d8e4a6
+    51      | medyellowishorange    |  #e6ac59
+    52      | brreddishorange       |  #d26e4c
+    53      | brightreddishviolet   |  #933979
+    54      | lightorange           |  #eab892
+    55      | trbrightbluishviolet  |  #a4a4cb
+    56      | gold                  |  #ddbc80
+    57      | darknougat            |  #af7a58
+    58      | silver                |  #9ca3a8
+    59      | neonorange            |  #d5733d
+    60      | neongreen             |  #d9dd57
+    61      | sandblue              |  #74869d
+    62      | sandviolet            |  #877c90
+    63      | mediumorange          |  #e09965
+    64      | sandyellow            |  #958b72
+    65      | earthblue             |  #213a57
+    66      | earthgreen            |  #27462d
+    67      | trflublue             |  #cfe3f6
+    68      | sandbluemetallic      |  #7989a0
+    69      | sandvioletmetallic    |  #958ea3
+    70      | sandyellowmetallic    |  #938666
+    71      | darkgreymetallic      |  #575956
+    72      | blackmetallic         |  #161c33
+    73      | lightgreymetallic     |  #abacad
+    74      | sandgreen             |  #789082
+    75      | sandred               |  #957977
+    76      | darkred               |  #7a2f2f
+    77      | trfluyellow           |  #fff77a
+    78      | trflured              |  #e1a4c2
+    79      | gunmetallic           |  #746d62
+    80      | redflipflop           |  #97685a
+    81      | yellowflipflop        |  #b48455
+    82      | silverflipflop        |  #888789
+    83      | curry                 |  #d7a84a
+    84      | fireyellow            |  #f9d62e
+    85      | flameyellowishorange  |  #e8ab2d
+    86      | reddishbrown          |  #684128
+    87      | flamereddishorange    |  #ce6025
+    88      | mediumstonegrey       |  #a3a2a5
+    89      | royalblue             |  #7e97c0
+    90      | darkroyalblue         |  #23478b
+    91      | brightreddishlilac    |  #8f4284
+    92      | darkstonegrey         |  #635f62
+    93      | lemonmetallic         |  #828a5d
+    94      | lightstonegrey        |  #e5e4df
+    95      | darkcurry             |  #b08e45
+    96      | fadedgreen            |  #719478
+    97      | turquoise             |  #79b5b5
+    98      | lightroyalblue        |  #9ec3e8
+    99      | mediumroyalblue       |  #6c80b6
+    100     | rust                  |  #914c2b
+    101     | brown                 |  #7c5d47 
+    102     | reddishlilac          |  #96709f
+    103     | lilac                 |  #6a629a
+    104     | lightlilac            |  #a7a8cf
+    105     | brightpurple          |  #cc6398
+    106     | lightpurple           |  #e5adc9
+    107     | lightpink             |  #dc9194
+    108     | lightbrickyellow      |  #f0d5a0
+    109     | warmyellowishorange   |  #ebb87f
+    110     | coolyellow            |  #fdea8d
+    111     | doveblue              |  #7cbadd
+    112     | mediumlilac           |  #352b74
+    113     | slimegreen            |  #506d54
+    114     | smokygrey             |  #5a5d68
+    115     | darkblue              |  #0013b0
+    116     | parsleygreen          |  #2c641c
+    117     | steelblue             |  #527cae
+    118     | stormblue             |  #325883
+    119     | lapis                 |  #102adc
+    120     | darkindigo            |  #3d1585
+    121     | seagreen              |  #358f40
+    122     | shamrock              |  #5b9a4b
+    123     | fossil                |  #9ea1ad
+    124     | mulberry              |  #592259
+    125     | forestgreen           |  #1e811e
+    126     | cadetblue             |  #9facc0
+    127     | electricblue          |  #0989ce
+    128     | eggplant              |  #7a097a
+    129     | moss                  |  #7d9c6a
+    130     | artichoke             |  #8baa85
+    131     | sagegreen             |  #b9c5b0
+    132     | ghostgrey             |  #cacad0
+    133     | plum                  |  #7a2e7b
+    134     | olivine               |  #94be81
+    135     | laurelgreen           |  #a8bd99
+    136     | quillgrey             |  #dfdedf
+    137     | crimson               |  #960001
+    138     | mint                  |  #b1e4a7
+    139     | babyblue              |  #98c2db
+    141     | carnationpink         |  #ff99dd
+    142     | persimmon             |  #fe5958
+    142     | maroon                |  #740001
+    143     | daisyorange           |  #f9d96f
+    144     | pearl                 |  #e6e7ed
+    145     | fog                   |  #c6d4e5
+    146     | salmon                |  #fe9495
+    147     | terracotta            |  #be6963
+    148     | cocoa                 |  #572425
+    149     | wheat                 |  #f0e6c7
+    150     | buttermilk            |  #fef3bb
+    151     | mauve                 |  #e1b2d1
+    152     | sunrise               |  #d491bc
+    153     | tawny                 |  #965555
+    154     | cashmere              |  #d3bf97
+    155     | khaki                 |  #e3dcbd
+    156     | lilywhite             |  #edebeb
+    157     | seashell              |  #e8dbda
+    158     | burgundy              |  #893e3f
+    159     | cork                  |  #bd9b5d
+    160     | burlap                |  #c7ac78
+    161     | beige                 |  #cbbfa2
+    162     | oyster                |  #bab3b3
+    163     | pinecone              |  #6d584a 
+    164     | fawnbrown             |  #a1854f
+    165     | hurricanegrey         |  #948989
+    166     | cloudygrey            |  #aba99f
+    167     | linen                 |  #af9582
+    168     | copper                |  #976764
+    169     | dirtbrown             |  #574336
+    170     | bronze                |  #7f6940
+    171     | flint                 |  #68675c
+    172     | darktaupe             |  #5b4c43
+    173     | burntsienna           |  #6a3808
+    174     | institutionalwhite    |  #f9f8f9
+    175     | midgray               |  #cccccd
+    176     | reallyblack           |  #101110
+    177     | reallyred             |  #fe0100
+    178     | deeporange            |  #feb000
+    179     | alder                 |  #b280fe
+    180     | dustyrose             |  #a24a4b
+    181     | olive                 |  #c0bf42
+    182     | newyeller             |  #fffc00
+    183     | reallyblue            |  #0120fe
+    184     | navyblue              |  #012061
+    185     | deepblue              |  #2054b8
+    186     | cyan                  |  #05afed
+    187     | cgabrown              |  #ab5400
+    188     | magenta               |  #ab11ab
+    189     | pink                  |  #fe67cc
+    190     | deeporange            |  #feaf01
+    191     | teal                  |  #11eed4
+    192     | toothpaste            |  #03feff
+    193     | limegreen             |  #02fd02
+    194     | camo                  |  #3b7d15
+    195     | grime                 |  #7e8f64
+    196     | lavender              |  #8c5a9e 
+    197     | pastellightblue       |  #aedcff
+    198     | pastelorange          |  #fec8c9
+    199     | pastelviolet          |  #b1a6fe
+    200     | pastelbluegreen       |  #9ef2e9
+    201     | pastelgreen           |  #cdfecd
+    202     | pastelyellow          |  #fffecc
+    203     | pastelbrown           |  #ffcd98
+    204     | royalpurple           |  #6225d1
+    205     | hotpink               |  #fe13be
 
 For questions about updates or anything else contact our support team.
 To join our official Discord server click [here](https://discord.gg/VSE75WkgFM).
