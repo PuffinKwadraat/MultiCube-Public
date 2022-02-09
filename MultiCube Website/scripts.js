@@ -11,8 +11,31 @@ menuIcon.addEventListener('click', () => {
     }
 });
 
+/* Theme switcher */
+  function setTheme(themeName) {
+    localStorage.setItem('theme', themeName);
+    document.documentElement.className = themeName;
+  }
 
-// Toggle Menu Icon ========================================
+  // function to toggle between light and dark theme
+  function toggleTheme() {
+    if (localStorage.getItem('theme') === 'theme-dark') {
+      setTheme('theme-light');
+    } else {
+      setTheme('theme-dark');
+    }
+  }
+
+  (function () {
+    if (localStorage.getItem('theme') === 'theme-dark') {
+      setTheme('theme-dark');
+    } else {
+      setTheme('theme-light');
+    }
+  })();
+
+
+// Toggle Menu Icon
 let toggleIcon = document.querySelector('.menuIcon');
 
 toggleIcon.addEventListener('click', () => {

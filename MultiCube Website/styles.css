@@ -44,5 +44,14 @@ body {
 
 .navlist {
   text-decoration: none;
-  
+}
+
+.dark-lightmodebutton {
+  color: var(--primary);
+  background-color: none;
+}
+
+.homepagetitle {
+  text-transform: uppercase;
+  color: #1b1b1b
 }
