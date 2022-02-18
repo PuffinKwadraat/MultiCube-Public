@@ -2,7 +2,7 @@
 
 ----------------------------------------
 
-Our Discord server has a couple of bots. The EGS names are named after birds, in Latin. The MCC bots are named after trees. Because we are a Dutch community, we also added their Dutch names. Afer their names, we also listed their purposes.
+Our Discord server has a couple of bots. The THP names are named after birds, in Latin. The MCC bots are named after trees. Because we are a Dutch community, we also added their Dutch names. Afer their names, we also listed their purposes.
 
 ## The Hangout Place:
 
