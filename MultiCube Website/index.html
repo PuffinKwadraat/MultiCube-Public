@@ -54,24 +54,43 @@ toggleIcon.addEventListener('click', () => {
 </script>
 
 <body>
-  <nav class="navbar">
-      <div class="logo">
-        <a href="index.html">Logohier</a>
-      </div>
-      <ul class="navlist">
-        <li><a href="index.html" class="navlinks">Home</a></li>
-        <li><a href="shop.html" class="navlinks">Shop</a></li>
-        <li><a href="about.html" class="navlinks">About</a></li>
-        <li><a href="contact.html" class="navlinks">Contact</a></li>
-      </ul>
+  <nav>
+    <!--Begin van navigatiebalk-->
+    <div class="logo">
+      <!--Deze div is nodig voor de opmaak van het logo-->
       <li>
-        <img onclick="toggleTheme()" src="./Pictures/user.png" class="dark-lightmodebutton">
+        <a href="index.html">
+          <img class="logoafbeelding" src="logo.png" alt="Logo isn't loading" width="auto" height="100">
+        </a>
       </li>
-  </nav>
+    </div>
+    <!--Afsluiten class="logo"-->
+    <ul class="navlinks">
+      <!--Lijst voor de pagina's. Met het CSS document wordt deze lijst horizontaal.-->
 
-    <section><h1 class="homepagetitle">Welcome!</h1></section>
-    <span>to the MultiCube Community.</span>
-
+      <li>
+        <a href="index.html" class="active"
+        >Home</a>
+        <!--Deel van lijst van de pagina's in navigatiebalk-->
+      </li>
+      <li>
+        <a href="shop.html">Shop</a>
+        <!--Deel van lijst van de pagina's in navigatiebalk-->
+      </li>
+      <li>
+        <a href="events.html">Events</a>
+        <!--Deel van lijst van de pagina's in navigatiebalk-->
+      </li>
+      <li>
+        <a href="about.html">About</a>
+        <!--Deel van lijst van de pagina's in navigatiebalk-->
+      </li>
+      <li>
+        <a href="help.html">Help</a>
+        <!--Deel van lijst van de pagina's in navigatiebalk-->
+      </li>
+    </ul>
+</nav>
 </body>
 
 </html>
