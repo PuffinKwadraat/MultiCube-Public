@@ -71,7 +71,16 @@ Here is a list for commands on our Discord server. Be aware though that some com
 | Command           | Info                                                                  | Usage                             | Aliases              |
 |-------------------|-----------------------------------------------------------------------|-----------------------------------|----------------------|
 | `color  `         | Give yourself a color. ID's range from 1 to 205                       | `color id`                        | `colour`, `clr`      |
-| `colorremove`     | Removes your rolecolor.                                               | `colorremove id`                  | `colourremove`       |
+| `colorremove`     | Removes your rolecolor.                                               | `colorremove id`                  | `clrrmv`             |
+
+#### Developer Commands
+| Command           | Info                                                                  | Usage                             | Aliases              |
+|-------------------|-----------------------------------------------------------------------|-----------------------------------|----------------------|
+| `templatecommand` | Template message. Intended for bot devs as a starting point.          | `commandtemplate`                 | `cmdtemp`            |
+| `templateembed`   | Template embed. Intended for bot devs as a starting point.            | `embedtemplate`                   | `mbdtemp`            |
+| `testabannounc..` | Test the announcement function. See how your ann turns out. Big       | `testabannouncement`              | `banno`              |
+| `testasannounc..` | Test the announcement fucntion. See how your ann turns out. Small     | `testasannouncement`              | `sanno`              |
+| `testsuggestion`  | Test the suggestion fucntion. Sent to a hidden channel (FGP).         | `testsuggest`                     | `tsuggest`           |
 
 #### Economy System Commands
 | Command           | Info                                                                  | Usage                             | Aliases              |
@@ -123,13 +132,20 @@ Here is a list for commands on our Discord server. Be aware though that some com
 | `serverip`        | Displays the Server IP of MultiCube with some information.            | `serverip`                        | `server`             |
 | `botstats`        | Displays some stats about the bot.                                    | `botstats`                        | `botstat`            |
 
-#### Other Commands
+#### Music Commands
 | Command           | Info                                                                  | Usage                             | Aliases              |
 |-------------------|-----------------------------------------------------------------------|-----------------------------------|----------------------|
 | `leave`           | Makes the Music Bot stop the music and leave the call.                | `leave`                           | `stop`  	           |
-| `play`            | Makes the bot play the sound of a YouTube video. You must be in call. | `play youtube-url`                | `music`, `sound`     |
+| `library`         | Shows your links to YouTube songs you have stored for quick access.   | `musiclibrary`                    | `msclib`             |
+| `play`            | Makes the bot play the sound of a YouTube video. You must be in call. | `play youtube-url`                |                      |
+| `reset`           | Resets your music library. Specific song or full reset.               | `reset`                           | `libres`             |
+| `update`          | Update or replace the current song in your library.                   | `update songid`                   | `mscup`              |
+
+#### Other Commands
+| Command           | Info                                                                  | Usage                             | Aliases              |
+|-------------------|-----------------------------------------------------------------------|-----------------------------------|----------------------|
 | `apply`           | Displays the link to a Google Form if you'd like to apply for a role. | `apply`                           |                      |
-| `commandtemplate` | Sends you a simple text. Also intended for Bot Developers.            | `commandtemplate`                 | `cmdtemp`            |
+| `dice`            | Roll the dice! Randomly picks a number between `1` and `6`            | `dice`                            | `roll`               |
 | `facen`           | Flip a coin, English language.                                        | `fac h/t`                         |                      |
 | `facnl`           | Flip a coin, Dutch language.                                          | `sps k/m`                         | `facnl`, `kopofmunt` |
 | `image`           | Sends you a random google image. Command just for fun.                | `image searchname`                | `img`                |
@@ -140,14 +156,14 @@ Here is a list for commands on our Discord server. Be aware though that some com
 | `ticket`          | Creates a private chat room for if you have a question for the staff. | `ticket`                          | `tkt`                |
 
 #### Miscellaneous Commands
-| Command             | Info                                                                  | Usage                             | Aliases              |
-|---------------------|-----------------------------------------------------------------------|-----------------------------------|----------------------|
-| `cirkelvergelijking`| Calculate a circel equation. Just for school stuff we made for fun.   | `circle`                          | `cirkel`  	         |
-| `hoeklijn`          | Calculate the difference in degrees between two lines crossing.       | `hoeklijn`                        | `hkli`          	   |
-| `puntlijn`          | Calculate the distance between a line and a point.                    | `punttotlijn`                     | `puntlijn`           |
-| `substitutie`       | Integration by substitution.                                          | `substitutie`                     | `subst`              |
-| `titreernormaal`    | Calc some science maths (titration).                                  | `titratienormaal`                 | `titnorm`            |
-| `titreerverdunning` | Calc some science maths (advanced titration).                         | `titratieverdunning`              | `titverdun`          |
+| Command             | Info                                                                | Usage                             | Aliases              |
+|---------------------|---------------------------------------------------------------------|-----------------------------------|----------------------|
+| `cirkelvergelijking`| Calculate a circel equation. Just for school stuff we made for fun. | `circle`                          | `cirkel`  	         |
+| `hoeklijn`          | Calculate the difference in degrees between two lines crossing.     | `hoeklijn`                        | `hkli`          	   |
+| `puntlijn`          | Calculate the distance between a line and a point.                  | `punttotlijn`                     | `puntlijn`           |
+| `substitutie`       | Integration by substitution.                                        | `substitutie`                     | `subst`              |
+| `titreernormaal`    | Calc some science maths (titration).                                | `titratienormaal`                 | `titnorm`            |
+| `titreerverdunning` | Calc some science maths (advanced titration).                       | `titratieverdunning`              | `titverdun`          |
 
 The prefix for a command is `$`, after that you can type your command. For example: `$help`. 
 
