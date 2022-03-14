@@ -2,14 +2,16 @@
 
 ----------------------------------------
 
-Our Discord server has a couple of bots. The THP names are named after birds, in Latin. The MCC bots are named after trees. Because we are a Dutch community, we also added their Dutch names. Afer their names, we also listed their purposes.
+Our Discord server has a couple of bots. The THP names are named after birds, in Latin. The MCC bots are named after trees, also in Latin. Because we are a Dutch community, we also added their Dutch names. Afer their names, we also listed their purposes. So the format is `Name: English, Dutch - Purpose`.
 
 ## The Hangout Place:
 
 - Anser: Goose, Gans - Economy
+- Avocet: Avocet, Kluut - Miscellaneous
 - Ciconia: Stork, Ooievaar - All
+- Coturnix: Quail, Kwartel - Games
 - Cuculus: Cuckoo, Koekoek - Cosmetic
-- Falco: Falcon, Valk - Other
+- Falco: Falcon, Valk - Informative
 - Heron: Heron, Reiger - Admin
 - Hirundo: Swallow, Zwaluw - Testing
 - Larum: Seagull, Meeuw - Events
