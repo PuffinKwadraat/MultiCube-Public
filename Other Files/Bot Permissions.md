@@ -5,8 +5,8 @@ For a bot to function properly, it needs enough permissions. There is a [website
 
 ----------------------------------------
 
-For a bot to have full permissions, use this code: 8589934591. <br/>
-You can also use this [link](https://discordapi.com/permissions.html#8589934591) so you don't have to click anything, and all the permissions are already there.
+For a bot to have full permissions, use this code: 1099511627775. <br/>
+You can also use this [link](https://discordapi.com/permissions.html#1099511627775) so you don't have to click anything, and all the permissions are already there.
 
 ----------------------------------------
 
