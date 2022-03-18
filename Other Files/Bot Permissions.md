@@ -1,7 +1,7 @@
 # MultiCube - Bot Permissions
 ----------------------------------------
 
-For a bot to function properly, it needs enough permissions. There is a [website](https://discordapi.com/permissions.html#8589934591) where you can calculate and add your bots to Discord servers. You can select what permissions a bot needs. All our bots have full permissions, so that nothing goes wrong. If you're bot is lacking permissions for a specific command that you made (for example: banning), you will be notified in the Console. We recommend [VSC](https://code.visualstudio.com/), because you can see your Code and the Console (terminal) at the same time. 
+For a bot to function properly, it needs enough permissions. There is a [website](https://discordapi.com/permissions.html#1099511627775) where you can calculate and add your bots to Discord servers. You can select what permissions a bot needs. All our bots have full permissions, so that nothing goes wrong. If you're bot is lacking permissions for a specific command that you made (for example: banning), you will be notified in the Console. We recommend [VSC](https://code.visualstudio.com/), because you can see your Code and the Console (terminal) at the same time. 
 
 ----------------------------------------
 
