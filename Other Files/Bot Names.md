@@ -12,10 +12,11 @@ Our Discord server has a couple of bots. The THP names are named after birds, in
 - Coturnix: Quail, Kwartel - Games
 - Cuculus: Cuckoo, Koekoek - Cosmetic
 - Falco: Falcon, Valk - Informative
-- Heron: Heron, Reiger - Admin
+- Heron: Heron, Reiger - Admininstrator
 - Hirundo: Swallow, Zwaluw - Testing
 - Larum: Seagull, Meeuw - Events
 - Noctua: Night Owl, Nachtuil - Level
+- Perdix: Partridge, Patrijs - Statistics
 - Picum: Woodpecker, Specht - Support
 - Stern: Stern, Stern - Music
 
