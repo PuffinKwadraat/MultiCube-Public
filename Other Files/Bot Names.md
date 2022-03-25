@@ -34,7 +34,7 @@ Our Discord server has a couple of bots. The THP names are named after birds, in
 - Picea: Fir, Spar - Level
 - Taxus: Yew, Taxus - Events
 
-* Corvus is a special bot. Instead of a Windows pc that's hosting the bots, Corvus is kept alive by a Raspberry Pi 4. This is a Linux computer. The architecture of Windows and Linux are completely different. That's why Corvus is a special guest. It's still WIP, but someday it will be as complex as Ciconia.
+** Corvus is a special bot. Instead of a Windows pc that's hosting the bots, Corvus is kept alive by a Raspberry Pi 4. This is a Linux computer. The architecture of Windows and Linux are completely different. That's why Corvus is a special guest. It's still WIP, but someday it will be as complex as Ciconia.
 
 ----------------------------------------
 
