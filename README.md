@@ -10,19 +10,29 @@ We are a group of people that make Minecraft servers and Discord bots.
 
 ### Joining our Minecraft Servers
 
-Most servers are just like any other public server fully joinable. But we have a couple of servers that have Mods. Like discribed above (General Information) you have to download them. If you want to know what servers have Mods, contact our support team.
+Most servers are just like any other public server fully joinable. But we have a couple of servers that have Mods. Like discribed above (General Information) you have to download them. If you want to know what servers have Mods, contact our support team. You can also check [here](https://github.com/PuffinKwadraat/MultiCube-Public/tree/main/Minecraft%20Servers/Child%20Servers).
+Only Child servers can have Mods, MultiCube does not have any Mods.
 
 ### Ranks and Roles
 
-If you want to apply for a Rank and/or Role, please fill in the [form](https://forms.gle/pabpqPiWeBp9aZ2a8). Note that for Roles like 'Builder' or 'Redstoner' aren't available for apply. These roles can be obtained by showing off you skill. If you want to be 'Redstoner', you have to be good with Redstone. If you want to be 'Builder', you have to be good with building stuff etc. If you are filling in the form, please tell us the truth. You can upload a picture of anything you have build and show us something. This isn't required, but it does help. Be aware though that we can't have 100 Admins for example, so check if the Ranks/Roles aren't full. Also, if you want the Support Role/Rank, you have to be a longtime player and know how things work. You can't get such roles if you are playing for a day or 2. Support means helping people, so you have to know how things work around our community.
+If you want to apply for a Rank and/or Role, please fill in the [form](https://forms.gle/pabpqPiWeBp9aZ2a8). Note that for Roles like 'Builder' or 'Redstoner' 
+aren't available for apply. These roles can be obtained by showing off you skill. If you want to be 'Redstoner', you have to be good with Redstone. If you want to 
+be 'Builder', you have to be good with building stuff etc. If you are filling in the form, please tell us the truth. You can upload a picture of anything you 
+have build and show us something. This isn't required, but it does help. Be aware though that we can't have 100 Admins for example, so check if the Ranks/Roles aren't 
+full. Also, if you want the Support Role/Rank, you have to be a longtime player and know how things work. You can't get such roles if you are playing for a day or 2.
+Support means helping people, so you have to know how things work around our community.
 
 ### Support and Help
 
-If you have questions about anything, you can contact our support team like said before. Check which people have the Support Role/Rank. Be polite and ask anything you'd like! If there's anything that can be done better/on another way or have suggestions, you can talk to people with Support Role. Please, be clear about what you'd like to see change, so we can get to work if we agree.
+If you have questions about anything, you can contact our support team like said before. Check which people have the Support Role/Rank. Be polite and ask anything
+you'd like! If there's anything that can be done better/on another way or have suggestions, you can talk to people with Support Role. Please, be clear about what 
+you'd like to see change, so we can get to work if we agree.
 
 ### Donate
 
-All of our services are free. We do not get payed. Because of this, support is greatly appreciated. You can support us via Ko-Fi. You can one-time donate, or become a Supporter. Supporters will receive benefits and other exclusive cool stuff. On Ko-Fi, you can also find our temporary webshop. We will move everything when our own website is done. Here is the link to our page:
+All of our services are free. We do not get payed. Because of this, support is greatly appreciated. You can support us via Ko-Fi. You can one-time donate, or become 
+a Supporter. Supporters will receive benefits and other exclusive cool stuff. On Ko-Fi, you can also find our temporary webshop. We will move everything when our 
+own website is done. Here is the link to our page:
 
 - [Ko-Fi](https://ko-fi.com/multicubecommunity)
 
@@ -30,23 +40,26 @@ If you choose to support us (which we would greatly appreciate), we will get to 
 
 ### Economy
 
-Our Discord Server also has a Economy system. You can collect money through a couple ways:
+Our Discord Server also has a Economy system. You can collect coins through several ways:
 
 - Daily reward: as the name suggests, you can collect a DR. The command for this is `dailyreward`, it has a cooldown of 24 hours (86400 seconds).
 - Another kind off daily reward is the `search` command, and you have to pick a number.
 - Participate in events.
-
-Furthermore, we are planning to connnect your Discord coins to your Minecraft balance, on the MultiCube server.
+- Buy coins with real money on our Ko-Fi [page](https://ko-fi.com/multicubecommunity).
 
 There are 2 types of balance:
 
-- Bank: you cannot pay with this, it's just an account for save keeping and saving up money.
+- Bank: you cannot pay with this, it's just an account for save keeping and saving up money. There is also a small amount of interest, so you can let your coins idle there, and generate more coins.
 - Wallet: this is your direct payment method. All money earned (for example DR) goes into here.
-The Economy System is not done, so this text about Economy will be expanded.
+
+With coins you can buy Boxes and Shards. You can open Boxes for Scraps, which you can sell. Shards are rare tokens, and you can buy exclusive stuff with those.
+Be aware that if you sell, you will get lose some money, as the buy price is higher than the sell price. 
 
 ### Levels
 
-Besides an economy system, we also have a Level system, with Levels and Experience. Each time you send a message, some Experience will be added into your profile. When you have enough Experience, you can buy a new level. We are still working on this, but the basics are there. Check the 'Commands' paragraph to see the commands associated with our Level system.
+Besides an economy system, we also have a Level system, with Levels and Experience. Each time you send a message, some Experience will be added into your profile. 
+When you have enough Experience, you can buy a new level. We are still working on this, but the basics are there. Check the 'Commands' paragraph to see the commands
+associated with our Level system.
 
 ### Usefull stuff/links
 
@@ -71,6 +84,9 @@ Here is a list for commands on our Discord server. Be aware though that some com
 
 | Command           | Info                                                                  | Usage                             | Aliases              |
 |-------------------|-----------------------------------------------------------------------|-----------------------------------|----------------------|
+| `bigannouncement` | Create an announcement in a dedicated channel.                        | `bigannouncent message`           | `banno`              |
+| `small...ncement` | Create an announcement in the init channel.                           | `smallannouncent message`         | `sanno`              |
+| `awake`           | A command that all bots have. For devs to see if the bots respond.    | `awake`                           |                      |
 | `ban`             | Speaks for itself. Bans a member.                                     | `ban @target`                     |                      |
 | `blind`           | Completely blinds a member. Target cannot do anything.                | `blind @target`                   |                      |
 | `clear`           | Bulk delete messages. Old messages can't be deleted with this.        | `clear amount`                    |`buldelete`, `bulkdel`|
@@ -116,6 +132,7 @@ Here is a list for commands on our Discord server. Be aware though that some com
 | `balance`         | Displays both your Bank Account and Wallet balance.                   | `balance`                         | `bal`                |
 | `balancebank`     | Displays only your Bank Account balance.                              | `balancebank`                     | `balbank`            |
 | `balancewallet`   | Displays only your Wallet balance.                                    | `balancewallet`                   | `balwallet`          |
+| `buy`             | Buy something with your coins.                                        | `buy item`                        |                      |
 | `dailyreward`     | Collect your daily reward. You receive a random amount of coins.      | `dailyreward`                     | `dlyrwd`, `dr`       |
 | `deposit`         | Transfer coins from your Wallet into your Bank Account.               | `deposit`                         | `depo`, `dep`        |
 | `givebank`        | Give a member `X` amount of coins for their Bank Account balance.     | `givebank @target amount`         |                      |
@@ -125,6 +142,7 @@ Here is a list for commands on our Discord server. Be aware though that some com
 | `minusfulleco`    | Substract `B` amount of coins from a both of their accounts.          | `minusfulleco @target amount`     |                      |
 | `minuswallet`     | Substract `C` amount of coins from a target's Wallet balance.         | `minuswallet @target amount`      |                      |
 | `search`          | Search for some coins. You get 3 options, and you can pick one.       | `search`                          | `srch`               |
+| `sell`            | Sell something you'd like to get rid of. Boxes, Scraps, Shards.       | `sell item`                       |                      |
 | `setbank`         | Reset the balance of a member's Bank Account.                         | `setbank @target newamount`       |                      |
 | `setfulleco`      | Reset the balance of both of their accounts.                          | `setfulleco @target newamount`    |                      |
 | `setwallet`       | Reset the balance of a member's Wallet.                               | `setwallet @target newamount`     |                      |
@@ -233,7 +251,21 @@ Here is a list for commands on our Discord server. Be aware though that some com
 | `help`            | Gives you information about a topic.                                  | `help (topic)`                    |                      |
 | `ticket`          | Creates a private chat room for if you have a question for the staff. | `ticket`                          | `tkt`                |
 
-The prefix for a command is `$`, after that you can type your command. For example: `$help`. Some commands also support the flag system. This is a system where you can add additional arguments to your command. For example, if you want to tag everyone when using a command: `github everyone`. This will first tag everyone, and then sends the payload. There are 3 flags avaiable: `everyone`, `here` and `delete`. Everyone and Here speaks for itself. Delete just deletes your initial message for executing a command. `github everyone delete` tags everyone, deletes your message, and sends the message. Combining flags is possible, but, using 2 group tags (everyone, here) is not allowed. Commands with 2, 3 or even more arguments will not support flags, because it will be way to complicated using the bot. But for simple embeds or other messages, you can freely use this system. But please use this system politely, and don't spam everyone etc.  
+#### Warning Commands
+
+| Command           | Info                                                                  | Usage                             | Aliases              |
+|-------------------|-----------------------------------------------------------------------|-----------------------------------|----------------------|
+| `givewarning`     | Give a member a warning. Up to three, after that, kick (force).       | `givewarning @target (force)`     | `givewarn`           |
+| `minuswarning`    | Decrease amount of warnings a member has.                             | `minuswarnings @target amount`    | `minwarn`            |
+| `setwarning`      | Reset the amount of warnings a member has.                            | `setwarning @target amount`       | `setwarn`            |
+| `warnings`        | Displays amount of warnings you currently have.                       | `warnings`                        | `warn`               |
+
+The prefix for a command is `$`, after that you can type your command. For example: `$help`. Some commands also support the flag system. This is a system where 
+you can add additional arguments to your command. For example, if you want to tag everyone when using a command: `github everyone`. This will first tag everyone, 
+and then sends the payload. There are 3 flags avaiable: `everyone`, `here` and `delete`. Everyone and Here speaks for itself. Delete just deletes your initial 
+message for executing a command. `github everyone delete` tags everyone, deletes your message, and sends the message. Combining flags is possible, but, using 2 
+group tags (everyone, here) is not allowed. Commands with 2, 3 or even more arguments will not support flags, because it will be way to complicated using the bot. 
+But for simple embeds or other messages, you can freely use this system. But please use this system politely, and don't spam everyone etc.  
 
 ---
 
