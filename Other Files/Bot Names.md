@@ -4,7 +4,7 @@
 
 Our Discord server has a couple of bots. The THP names are named after birds, in Latin. The MCC bots are named after trees, also in Latin. Because we are a Dutch community, we also added their Dutch names. Afer their names, we also listed their purposes. So the format is `Name: English, Dutch - Purpose`.
 
-## The Hangout Place:
+## The Hangout Place
 
 - Anser: Goose, Gans - Economy
 - Avocet: Avocet, Kluut - Miscellaneous
@@ -16,12 +16,13 @@ Our Discord server has a couple of bots. The THP names are named after birds, in
 - Heron: Heron, Reiger - Admininstrator
 - Hirundo: Swallow, Zwaluw - Testing
 - Larum: Seagull, Meeuw - Events
+- Luscinia: Nightingale, Nachtegaal - Empty***
 - Noctua: Night Owl, Nachtuil - Level
 - Perdix: Partridge, Patrijs - Statistics
 - Picum: Woodpecker, Specht - Support
 - Stern: Stern, Stern - Music
 
-## MultiCube Community:
+## MultiCube Community
 
 - Alnus: Alder, Els - All
 - Betula: Birch, Berk - Testing
@@ -37,6 +38,8 @@ Our Discord server has a couple of bots. The THP names are named after birds, in
 ---
 
 ** Corvus is a special bot. Instead of a Windows pc that's hosting the bots, Corvus is kept alive by a Raspberry Pi 4. This is a Linux computer. The architecture of Windows and Linux are completely different. That's why Corvus is a special guest. It's still WIP, but someday it will be as complex as Ciconia.
+
+*** Luscinia doesn't do anything, except the `awake` command.
 
 ---
 
