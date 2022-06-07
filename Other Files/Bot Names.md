@@ -16,7 +16,7 @@ Our Discord server has a couple of bots. The THP names are named after birds, in
 - Heron: Heron, Reiger - Admininstrator
 - Hirundo: Swallow, Zwaluw - Testing
 - Larum: Seagull, Meeuw - Events
-- Luscinia: Nightingale, Nachtegaal - Empty***
+- Luscinia: Nightingale, Nachtegaal - Trading
 - Noctua: Night Owl, Nachtuil - Level
 - Perdix: Partridge, Patrijs - Statistics
 - Picum: Woodpecker, Specht - Support
@@ -37,9 +37,7 @@ Our Discord server has a couple of bots. The THP names are named after birds, in
 
 ---
 
-** Corvus is a special bot. Instead of a Windows pc that's hosting the bots, Corvus is kept alive by a Raspberry Pi 4. This is a Linux computer. The architecture of Windows and Linux are completely different. That's why Corvus is a special guest. It's still WIP, but someday it will be as complex as Ciconia.
-
-*** Luscinia doesn't do anything, except the `awake` command.
+** Corvus is a special bot. Instead of a Windows PC that's hosting the bots, Corvus is hosted by a Raspberry Pi 4. This is a Linux computer. The architecture of Windows and Linux are completely different. That's why Corvus is a special guest. It's still WIP, but someday it will be as complex as Ciconia.
 
 ---
 
