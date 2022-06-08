@@ -7,16 +7,18 @@ This is a list of all the materials/item you can play with.
 
 |Material|Obtain|Rarity Tier|Average Cost|Usage|
 |--------|------|----------|-----------|-----|
-|xi|Selling/T|S||Buying/T|
-|pi|Selling/T|S||Buying/T|
+|xi|Selling/T|S|N/A|Buying/T|
+|pi|Selling/T|S|N/A|Buying/T|
 |steel|Iron + Carbon|D|Low|B|
 |steelpart|Steel|C|Low|B|
 |iron|Iron Ore + Refinery|D|Low|C|
-|carbon|AirFilter|B|Medium|C|
+|carbon|Air Filter|B|Medium|C|
 |brick|Clay|D|Low|C|
 |clay|River|E|Low|C|
+|soil|Buy|E|Low|C|
+|water|River|E|Low|C|
 |paper|Woodplank|C|Low|C|
-|woodplank|Wood + Sawmill|D|Llow|B
+|woodplank|Wood + Sawmill|D|Low|B
 |woodpart|Wood + Sawmill|D|Low|B|
 |wood|Log + Sawmill|D|Low|C|
 |log|Forest|D|Low|C|
@@ -39,7 +41,7 @@ This is a list of all the materials/item you can play with.
 |ironore|Mine|E|Medium|C|
 |copperore|Mine|E|Medium|C|
 |goldore|Mine|C|High|C|
-|gas|GasWell|D|High|T|
+|gas|Gasplant|D|High|T|
 |ceramic|Clay|C|High|T|
 |cork|Forest|D|Low|T|
 |mesh|Fibre|C|Low|T|
@@ -183,9 +185,9 @@ This is a list of all the materials/item you can play with.
 |fibre|Polymaterials + Reactor|C|Medium|C|
 |carbonfibre|Carbon|B|Very High|C|
 |chemical|Polymaterials + Reactor|B|Very High|C|
-|polymaterial|AllFruit/Vegetable + Reactor|B|Very High|C|
+|polymaterial|All Fruit/Vegetable + Reactor|B|Very High|C|
 |acid|Polymaterials + Reactor|A|High|C|
-|catalyst|AllMetals|A|Very High|C|
+|catalyst|All Metals|A|Very High|C|
 |chromepart|Chrome|C|High|T|
 |chrome|Mine|C|High|T|
 |brasspart|Brass|B|Medium|C|
@@ -237,6 +239,14 @@ This is a list of all the materials/item you can play with.
 |restaurant|Componentstarting + Xi|C|High|B|
 |hotel|Componentstarting + Xi|C|High|B|
 |sawmill|Componentstarting + Xi|D|Medium|B|
+|refinery|Componentstarting + Xi|D|Medium|B|
+|oilwell|Componentstarting + Xi|D|Medium|B|
+|airfilter|Componentstarting + Xi|D|Medium|B|
+|river|Water|D|Low|C|
+|forest|Soil|C|Low|C|
+|beach|Sand + Water|C|Low|C|
+|mine|Componentstarting + Xi|C|High|C|
+|field|Soil + Water|C|Medium|C|
 |interiorshop|Componentinterior + Componentstarting + Xi|C|High|B|
 |clothingshop|Componentclothing + Componentstarting + Xi|C|High|B|
 |drugstore|Componentstarting + Xi|C|High|B|
