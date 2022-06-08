@@ -4,22 +4,22 @@
 |--------|------|----------|-----------|-----|
 |xi|Selling/T|S||Buying/T|
 |pi|Selling/T|S||Buying/T|
-|steel|Iron+Carbon|D|Low|B|
+|steel|Iron + Carbon|D|Low|B|
 |steelpart|Steel|C|Low|B|
-|iron|IronOre+Refinery|D|Low|C|
+|iron|IronOre + Refinery|D|Low|C|
 |carbon|AirFilter|B|Medium|C|
 |brick|Clay|D|Low|C|
 |clay|River|E|Low|C|
 |paper|Woodplank|C|Low|C|
-|woodplank|Wood+Sawmill|D|Llow|B
-|woodpart|Wood+Sawmill|D|Low|B|
-|wood|Log+Sawmill|D|Low|C|
+|woodplank|Wood + Sawmill|D|Llow|B
+|woodpart|Wood + Sawmill|D|Low|B|
+|wood|Log + Sawmill|D|Low|C|
 |log|Forest|D|Low|C|
 |bamboo|Forest|C|Medium|C|
 |pipe|Plastic|C|Low|B|
 |plasticpart|Plastic|C|Low|B|
 |plastic|Reactor|D|Low|C|
-|glass|Limestone+Sand|C|Low|C|
+|glass|Limestone + Sand|C|Low|C|
 |limestone|Mine|E|Low|C|
 |sand|Beach|E|Low|C|
 |plexiglass|Plastic|C|Low|C|
@@ -39,7 +39,7 @@
 |cork|Forest|D|Low|T|
 |mesh|Fibre|C|Low|T|
 |rubber|Log|C|Medium|T|
-|uranium|Mine|A|VeryHigh|C|
+|uranium|Mine|A|Very High|C|
 |rice|Field|D|Low|T|
 |rye|Field|D|Low|T|
 |oats|Field|D|Low|T|
@@ -50,7 +50,7 @@
 |sorghum|Field|D|Low|T|
 |wheat|Field|D|Low|C|
 |resin|Log|C|High|C|
-|tape|Glue+Paper|C|Low|B|
+|tape|Glue + Paper|C|Low|B|
 |metalsheet|Steel|C|Medium|B|uillding
 |cocoa|Field|B|High|T|
 |coffeebean|Field|B|High|T|
@@ -61,7 +61,7 @@
 |egg|Farm|D|Low|T|
 |fish|River|D|Medium|T|
 |meat|Farm|D|Medium|T|
-|bread|Wheat+Flour|C|Low|T|
+|bread|Wheat + Flour|C|Low|T|
 |asparagus|Field|D|Medium|T|
 |eggplant|Field|D|Medium|T|
 |broccoli|Field|D|Medium|T|
@@ -141,83 +141,83 @@
 |goat|Farm|B|High|T|
 |llama|Farm|B|High|T|
 |rabbit|Farm|B|High|T|
-|cement|Aluminum+Iron+Magnesium|C|High|C|
-|concrete|Cement+River+Pebbles|B|High|B|
+|cement|Aluminum + Iron + Magnesium|C|High|C|
+|concrete|Cement + River + Pebbles|B|High|B|
 |pebbles|River|D|Low|C|
-|phenolicfoam|Resin+Reactor|B|VeryHigh|B|
-|polyurethane|Polymaterials+Reactor|B|VeryHigh|B|
-|xps|Oil+Reactor|B|High|B|
+|phenolicfoam|Resin + Reactor|B|Very High|B|
+|polyurethane|Polymaterials + Reactor|B|Very High|B|
+|xps|Oil + Reactor|B|High|B|
 |rockwool|Basalt|C|Medium|B|
-|foamglass|Sand+Limestone|C|Medium|B|
-|glasswool|Polymaterials+Reactor|C|Medium|B|
-|doubleglass|Glass+Glass|B|Medium|B|
-|tripleglass|Doubleglass+Glass|A|High|B|
-|fabric|Cotton+Fibre|C|Low|C|
+|foamglass|Sand + Limestone|C|Medium|B|
+|glasswool|Polymaterials + Reactor|C|Medium|B|
+|doubleglass|Glass + Glass|B|Medium|B|
+|tripleglass|Doubleglass + Glass|A|High|B|
+|fabric|Cotton + Fibre|C|Low|C|
 |cotton|Field|D|Low|C|
-|fibre|Polymaterials+Reactor|C|Medium|C|
-|carbonfibre|Carbon|B|VeryHigh|C|
-|chemical|Polymaterials+Reactor|B|VeryHigh|C|
-|polymaterial|AllFruit/Vegetable+Reactor|B|VeryHigh|C|
-|acid|Polymaterials+Reactor|A|High|C|
-|catalyst|AllMetals|A|VeryHigh|C|
+|fibre|Polymaterials + Reactor|C|Medium|C|
+|carbonfibre|Carbon|B|Very High|C|
+|chemical|Polymaterials + Reactor|B|Very High|C|
+|polymaterial|AllFruit/Vegetable + Reactor|B|Very High|C|
+|acid|Polymaterials + Reactor|A|High|C|
+|catalyst|AllMetals|A|Very High|C|
 |chromepart|Chrome|C|High|T|
 |chrome|Mine|C|High|T|
 |brasspart|Brass|B|Medium|C|
-|brass|Copper+Zinc|C|Medium|C|
-|diamond|Carbon+Reactor|A|VeryHigh|T|
-|gold|GoldOre+Refinery|A|VeryHigh|T|
-|platinum|Mine|A|VeryHigh|T|
-|silver|Mine|B|VeryHigh|T|
-|copper|CopperOre+Refinery|C|Medium|T|
-|lithium|Mine|B|VeryHigh|T|
-|cobalt|Mine|B|VeryHigh|T|
-|titanium|Mine|B|VeryHigh|T|
-|tungsten|Mine|B|VeryHigh|T|
+|brass|Copper + Zinc|C|Medium|C|
+|diamond|Carbon + Reactor|A|Very High|T|
+|gold|GoldOre + Refinery|A|Very High|T|
+|platinum|Mine|A|Very High|T|
+|silver|Mine|B|Very High|T|
+|copper|CopperOre + Refinery|C|Medium|T|
+|lithium|Mine|B|Very High|T|
+|cobalt|Mine|B|Very High|T|
+|titanium|Mine|B|Very High|T|
+|tungsten|Mine|B|Very High|T|
 |nickel|Mine|C|Medium|T|
-|magnesium|Mine|B|VeryHigh|T|
+|magnesium|Mine|B|Very High|T|
 |lead|Mine|B|Medium|T|
 |tin|Mine|B|Medium|T|
-|mercury|Mine|B|VeryHigh|T|
-|bismuth|Mine|B|VeryHigh|T|
-|rodium|Mine|B|VeryHigh|T|
-|osmium|Mine|B|VeryHigh|T|
-|palladium|Mine|B|VeryHigh|T|
-|iridium|Mine|B|VeryHigh|T|
-|ruthenium|Mine|B|VeryHigh|T|
-|plutonium|Uranium+Reactor|S|VeryHigh|B|
-|componentelectric|Steelpart+Componentstarting|C|Medium|C|
-|componentinterior|Woodpart+Componentstarting|C|Medium|C|
-|componentclothing|Fabric+Componentstarting|C|Medium|C|
-|componentstarting|Metal+Wood+Fabric|D|Medium|C|
-|housetier1|Componentstarting+Xi|D|Medium|B|
-|housetier2|Xi+Interiorshop+Conveniencestore|D|Medium|B|
-|housetier3|Xi+Drugstore+Clothingstore|C|High|B|
-|housetier4|Xi+Devicestore|C|High|B|
-|housetier5|Xi|B|VeryHigh|B|
-|warehouse|Componentstarting+Xi|C|High|B|
-|police|Componentstarting+Xi|C|High|B|
-|firedepartment|Componentstarting+Xi|C|High|B|
-|hospital|Componentstarting+Xi|C|High|B|
-|mall|Componentstarting+Xi|C|High|B|
-|cityhall|Componentstarting+Xi|C|High|B|
-|infrastructure|Componentstarting+Xi|C|High|B|
-|landfill|Componentstarting+Xi|C|High|B|
-|nuclearreactor|Componentstarting+Xi+Plutonium|B|VeryHigh|B|
-|windmill|Componentstarting+Xi|B|High|B|
-|sonarpanel|Componentstarting+Xi|B|Medium|B|
-|park|Forest+River|C|High|B|
-|school|Componentstarting+Xi|C|Medium|B|
-|cinema|Componentstarting+Xi|C|High|B|
-|restaurant|Componentstarting+Xi|C|High|B|
-|hotel|Componentstarting+Xi|C|High|B|
-|sawmill|Componentstarting+Xi|D|Medium|B|
-|interiorshop|Componentinterior+Componentstarting+Xi|C|High|B|
-|clothingshop|Componentclothing+Componentstarting+Xi|C|High|B|
-|drugstore|Componentstarting+Xi|C|High|B|
-|conveniencestore|Componentstarting+Xi|C|High|B|
-|devicestore|Componentelectric+Componentstarting+Xi|B|High|B|
-|reactor|Componentelectric+Componentstarting+Xi|B|High|B|
-|factory|Componentelectric+Componentstarting+Xi|C|Medium|B|
-|energyplant|Componentelectric+Componentstarting+Xi|C|High|B|
-|waterplant|Componentelectric+Componentstarting+Xi|C|High|B|
-|gasplant|Componentelectric+Componentstarting+Xi|C|High|B|
+|mercury|Mine|B|Very High|T|
+|bismuth|Mine|B|Very High|T|
+|rodium|Mine|B|Very High|T|
+|osmium|Mine|B|Very High|T|
+|palladium|Mine|B|Very High|T|
+|iridium|Mine|B|Very High|T|
+|ruthenium|Mine|B|Very High|T|
+|plutonium|Uranium + Reactor|S|Very High|B|
+|componentelectric|Steelpart + Componentstarting|C|Medium|C|
+|componentinterior|Woodpart + Componentstarting|C|Medium|C|
+|componentclothing|Fabric + Componentstarting|C|Medium|C|
+|componentstarting|Metal + Wood + Fabric|D|Medium|C|
+|housetier1|Componentstarting + Xi|D|Medium|B|
+|housetier2|Xi + Interiorshop + Conveniencestore|D|Medium|B|
+|housetier3|Xi + Drugstore + Clothingstore|C|High|B|
+|housetier4|Xi + Devicestore|C|High|B|
+|housetier5|Xi|B|Very High|B|
+|warehouse|Componentstarting + Xi|C|High|B|
+|police|Componentstarting + Xi|C|High|B|
+|firedepartment|Componentstarting + Xi|C|High|B|
+|hospital|Componentstarting + Xi|C|High|B|
+|mall|Componentstarting + Xi|C|High|B|
+|cityhall|Componentstarting + Xi|C|High|B|
+|infrastructure|Componentstarting + Xi|C|High|B|
+|landfill|Componentstarting + Xi|C|High|B|
+|nuclearreactor|Componentstarting + Xi + Plutonium|B|Very High|B|
+|windmill|Componentstarting + Xi|B|High|B|
+|sonarpanel|Componentstarting + Xi|B|Medium|B|
+|park|Forest + River|C|High|B|
+|school|Componentstarting + Xi|C|Medium|B|
+|cinema|Componentstarting + Xi|C|High|B|
+|restaurant|Componentstarting + Xi|C|High|B|
+|hotel|Componentstarting + Xi|C|High|B|
+|sawmill|Componentstarting + Xi|D|Medium|B|
+|interiorshop|Componentinterior + Componentstarting + Xi|C|High|B|
+|clothingshop|Componentclothing + Componentstarting + Xi|C|High|B|
+|drugstore|Componentstarting + Xi|C|High|B|
+|conveniencestore|Componentstarting + Xi|C|High|B|
+|devicestore|Componentelectric + Componentstarting + Xi|B|High|B|
+|reactor|Componentelectric + Componentstarting + Xi|B|High|B|
+|factory|Componentelectric + Componentstarting + Xi|C|Medium|B|
+|energyplant|Componentelectric + Componentstarting + Xi|C|High|B|
+|waterplant|Componentelectric + Componentstarting + Xi|C|High|B|
+|gasplant|Componentelectric + Componentstarting + Xi|C|High|B|
