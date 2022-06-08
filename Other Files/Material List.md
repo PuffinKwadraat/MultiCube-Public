@@ -1,12 +1,17 @@
 # Trading Game Material List
 
-|Material|Obtain|RarityTier|AverageCost|Usage|
+This is a list of all the materials/item you can play with.
+
+- Rarity Tier: goes from S-Tier to E-Tier, where E is the lowest. E-Tier means that it isn't rare, and mostly cheaper.
+- Usage: T means trading, C means crafting and B means building. T-items are mostly for trading with others, and getting more Xi. C-items are for crafting other items. And lastly, B-items are for building buildings. But note that all items can be traded between players. The letters are just for their primary function.
+
+|Material|Obtain|Rarity Tier|Average Cost|Usage|
 |--------|------|----------|-----------|-----|
 |xi|Selling/T|S||Buying/T|
 |pi|Selling/T|S||Buying/T|
 |steel|Iron + Carbon|D|Low|B|
 |steelpart|Steel|C|Low|B|
-|iron|IronOre + Refinery|D|Low|C|
+|iron|Iron Ore + Refinery|D|Low|C|
 |carbon|AirFilter|B|Medium|C|
 |brick|Clay|D|Low|C|
 |clay|River|E|Low|C|
@@ -165,10 +170,10 @@
 |brasspart|Brass|B|Medium|C|
 |brass|Copper + Zinc|C|Medium|C|
 |diamond|Carbon + Reactor|A|Very High|T|
-|gold|GoldOre + Refinery|A|Very High|T|
+|gold|Gold Ore + Refinery|A|Very High|T|
 |platinum|Mine|A|Very High|T|
 |silver|Mine|B|Very High|T|
-|copper|CopperOre + Refinery|C|Medium|T|
+|copper|Copper Ore + Refinery|C|Medium|T|
 |lithium|Mine|B|Very High|T|
 |cobalt|Mine|B|Very High|T|
 |titanium|Mine|B|Very High|T|
