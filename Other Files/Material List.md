@@ -36,7 +36,7 @@ This is a list of all the materials/item you can play with.
 |chalk              |Mine                                       |E              |Low            |T          |
 |slate              |Mine                                       |D              |Medium         |T          |
 |basalt             |Mine                                       |D              |Medium         |C          |
-|oil                |oilwell                                    |D              |High           |C          |
+|oil                |Oilwell                                    |D              |High           |C          |
 |coal               |Mine                                       |E              |Low            |T          |
 |ironore            |Mine                                       |E              |Medium         |C          |
 |copperore          |Mine                                       |E              |Medium         |C          |
