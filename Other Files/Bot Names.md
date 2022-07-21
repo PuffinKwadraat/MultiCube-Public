@@ -11,7 +11,7 @@ Our Discord server has a couple of bots. The THP names are named after birds, in
 - Avocet: Avocet, Kluut - Miscellaneous
 - Ciconia: Stork, Ooievaar - All
 - Coturnix: Quail, Kwartel - Games
-- Corvus: Crow, Kraai - All**
+- Corvus: Crow, Kraai - All***
 - Cuculus: Cuckoo, Koekoek - Cosmetic
 - Falco: Falcon, Valk - Informative
 - Heron: Heron, Reiger - Admininstrator
@@ -40,7 +40,7 @@ Our Discord server has a couple of bots. The THP names are named after birds, in
 
 ** Docker is a different program for hosting the bot. Such different, that is needs new files that are bot specific. Therefore, a new bot was created. Docker runs programs much more efficiently.
 
-*** Corvus is a special bot. Instead of a Windows PC that's hosting the bots, Corvus is hosted by a Raspberry Pi 4. This is a Linux computer. The architecture of Windows and Linux are completely different. That's why Corvus is a special guest. It's still WIP, but someday it will be as complex as Ciconia.
+*** Corvus was a Linux bot. This project succeeded, and was therefore repurposed to test newer versions of the code. Not quit like Hirundo tho.
 
 ---
 
